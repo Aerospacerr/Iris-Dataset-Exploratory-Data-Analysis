@@ -1,4 +1,4 @@
-## Iris Dataset Exploratory Data Analysis(EDA) and Decision Tree Classifier 
+## Classifier methods on IRIS Dataset - Deep Learning Included
 We did perform an exploratory data analysis (EDA) on Iris dataset before, here this link:
 
 
