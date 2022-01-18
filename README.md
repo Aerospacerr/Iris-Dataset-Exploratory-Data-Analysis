@@ -1,4 +1,4 @@
-## Classifier methods on IRIS Dataset - Deep Learning Included
+## Iris Dataset Exploratory Data Analysis
 
 Iris dataset is the best known dataset in the machine learning literature. It contains 150
 samples, 50 samples for each of the 3 classes. Class labels are given in the last column of the
